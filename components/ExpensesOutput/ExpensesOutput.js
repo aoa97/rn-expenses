@@ -24,7 +24,7 @@ export default function ExpensesOutput({
 const styles = StyleSheet.create({
   container: {
     padding: 16,
-    flex: 1
+    flex: 1,
   },
   fallbackText: {
     color: "white",
